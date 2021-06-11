@@ -10,4 +10,4 @@ If you're having problems, you can tweet to us [@expo](https://twitter.com/expo)
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
 
-Link of the project:- https://github.com/AbdlSameer/story-hub-app-2.git
+Link of the project:- https://snack.expo.io/@abdulsameer/story-hub-app2
